@@ -1,0 +1,26 @@
+.location-container {
+  width: 49%;
+  background-color: #ffffff;
+  margin-bottom: 12px;
+}
+
+.location-image {
+  width: 100%;
+}
+
+.location-description-container {
+  padding: 10px;
+}
+
+.location-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #334155;
+  font-weight: bold;
+}
+
+.location-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+}
